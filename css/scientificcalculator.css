@@ -1,0 +1,42 @@
+#scientfic-calculator-div {
+    width: 90%;
+    margin: 2px auto;
+    background-color: #fff;
+    padding: 2px;
+    border-radius: 8px;
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+
+  .sci-input {
+    width: 100%;
+    padding: 2px;
+    margin-bottom: 2px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    box-sizing: border-box;
+  }
+
+  .sci-button {
+    width: 19%;
+    padding: 3px;
+    margin: 2px;
+    font-size: 17px;
+    cursor: pointer;
+    border: none;
+    border-radius: 2px;
+    box-sizing: border-box;
+    color: fuchsia;
+
+  }
+
+  /* button.operator {
+    background-color: #ff9500;
+    color: #fff;
+  } */
+
+  .sc-button.equal {
+    background-color: #28a745;
+    color: #fff;
+  }

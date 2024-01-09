@@ -1,0 +1,20 @@
+
+    .form
+    {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+    }
+    .name
+    {
+        flex: 0 0 8rem;
+    }
+    .email
+    {
+        flex: 0 0 8rem;
+    }
+    .frm-button
+    {
+        flex: 0 0 80px;
+        background-color: aqua;
+    }  
